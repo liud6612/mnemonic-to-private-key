@@ -11,3 +11,6 @@ mnemonic-to-private-key
 2. Enhance the security of private keys: These tools use specialized algorithms and encryption techniques to ensure that mnemonics are converted into random and powerful private keys. Multiple encryption steps reduce the risk of private keys being cracked or stolen.
 3. Support multiple cryptocurrency standards: With the development of the cryptocurrency market, such tools usually support multiple standards, such as BIP-39, to adapt to the private key generation needs of different cryptocurrencies, and improve the applicability of tools and the ease of user operation.
 4. Improve user experience and security awareness: These tools not only provide convenient management functions, but also enhance users' security awareness through security tips and suggestions, such as regular backup and offline storage and other important measures.
+# Offline version
+Download index.html from the releases.
+Open the file in a browser by double clicking it.
