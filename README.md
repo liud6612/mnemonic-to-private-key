@@ -1,4 +1,4 @@
-# mnemonic-to-private-key
+# mnemonic to private key
 A tool to convert BIP39 mnemonic to private keys.
 # Online Version
 https://onekey.bip39.top/
