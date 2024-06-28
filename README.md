@@ -1,7 +1,7 @@
 # mnemonic to private key
 A tool to convert BIP39 mnemonic to private keys.
 # Online Version
-https://onekey.bip39.top/
+https://www.barrieathleticclub.com/
 # Usage
 When you use the BIP39 mnemonic to private keys tool, you will enter your BIP39 mnemonic or choose to generate a random mnemonic. The tool will generate private keys based on these mnemonics and display a list of corresponding cryptocurrency addresses. These addresses can be used to receive and send cryptocurrency.
 If desired, you can set a specific derivation path to generate different private key and address combinations. Once the list of addresses is generated, you can easily copy or paste individual addresses to import them into your cryptocurrency wallet or share them with others.
